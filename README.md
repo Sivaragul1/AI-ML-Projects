@@ -6,7 +6,7 @@ Welcome to the AI and ML Projects repository! This repository contains a collect
 
 The repository is organized as follows:
 
-- **Project 1**: Face Mask Detector
+- **Project 1**: Face Mask Detection
 - **Project 2**: AI Chat Bot
 - **Project 3**: 
 - ...
