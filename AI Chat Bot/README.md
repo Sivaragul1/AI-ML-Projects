@@ -14,7 +14,7 @@ This repository contains an AI chat bot built using natural language processing 
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/your-username/ai-chat-bot.git
+git clone https://github.com/sivaragul1/ai-chat-bot.git
 ```
 
 2. Install the required dependencies.
